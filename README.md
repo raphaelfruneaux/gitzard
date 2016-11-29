@@ -1,2 +1,2 @@
-# Gitzard
-:octocat::vertical_traffic_light: Git repositories assistant panel
+# :octocat::vertical_traffic_light: Gitzard
+Git repositories assistant panel
